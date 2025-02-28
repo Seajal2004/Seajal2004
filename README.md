@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Seajal Gupta</h1>
 <h3 align="center">AI/ML Enthusiast | Software Developer | Full-Stack Web Developer</h3>
 
