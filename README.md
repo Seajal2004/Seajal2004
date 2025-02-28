@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Seajal Gupta</h1>
 <h3 align="center">AI/ML Enthusiast | Software Developer | Full-Stack Web Developer</h3>
 
@@ -28,24 +27,43 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-**Frameworks & Tools:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+**Libraries & Frameworks:**  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Spacy](https://img.shields.io/badge/-Spacy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![Scipy](https://img.shields.io/badge/-Scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Web Technologies:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools & Version Control:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 📌 **Projects**
-### 🥗 NutriGuide-AI | `HTML5, CSS, Javascript, Python, PHP`
+### 🥗 NutriGuide-AI | `HTML5, CSS, JavaScript, Python, PHP`
 - 🗨 Created an intuitive chatbot for personalized food-related queries and diet plans.  
 - 🍽 Implemented technology to scan and analyze restaurant menus for healthy food recommendations.  
 
 ### 🚜 Bulldozer-Price-Prediction | `Python`
 - 📊 Conducted extensive data analysis on the Kaggle dataset.  
 - 🔍 Used feature engineering, regression models, and preprocessing to improve accuracy and minimize RMSLE.  
+
+### ❤️ End-to-End Heart Disease Classification | `Python, Scikit-Learn, TensorFlow`
+- 🏥 Developed a machine learning model to predict heart disease using medical attributes.  
+- 🔬 Implemented feature engineering, hyperparameter tuning, and model evaluation techniques.  
+- 📊 Followed an end-to-end approach: **Problem Definition → Data Collection → Evaluation → Feature Selection → Modeling → Experimentation**.  
 
 ---
 
@@ -71,6 +89,7 @@
 🎯 **Placement Committee Member** | Bennett University  
 - 📢 Actively involved in **placement drives, student training, and recruitment operations**.  
 - 🤝 Ensuring smooth placement processes for **CS students**.  
+
 
 ---
 
