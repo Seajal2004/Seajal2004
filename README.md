@@ -123,10 +123,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seajal2004&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
 ---
 
 ## 💡 Currently Reflecting
 
-> 💡 *Currently reflecting on:*  
-> *"Fall in love with the process, and the results will come."*
+
+- *"Fall in love with the process, and the results will come."*
+
+ ---
 
