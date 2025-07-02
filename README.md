@@ -21,9 +21,9 @@
 - 🎓 B.Tech CSE (AI/ML) @ Bennett University | CGPA: 9.34  
 - 🔭 Currently working on Machine Learning and Web Dev projects  
 - 🌱 Learning: Advanced DSA, Deep Learning & Neural Networks  
-- 💬 Ask me about Python, C++, AI/ML, React, and Full-Stack Development  
-- 🧩 Finalist in technical interviews @ Google & Microsoft  
-- 🎖 Dean's List | Hackathon Runner-up | Published Research Paper  
+- 💬 Ask me about Python, C++, AI/ML, and Full-Stack Development  
+- 🧩 Advanced to mid-level interviews at Google & Microsoft (2024)
+- 🎖 Dean's List | Hackathon Runner-up | Authored Research Paper  
 
 ---
 
