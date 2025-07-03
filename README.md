@@ -132,4 +132,6 @@
 - *"Fall in love with the process, and the results will come."*
 
  ---
+ ![ML Enthusiast](https://img.shields.io/badge/AI%2FML-Enthusiast-blueviolet?style=for-the-badge)
+
 
