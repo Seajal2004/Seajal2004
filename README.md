@@ -133,5 +133,6 @@
 
  ---
  ![ML Enthusiast](https://img.shields.io/badge/AI%2FML-Enthusiast-blueviolet?style=for-the-badge)
+ ![HackerRank C++ 5⭐](https://img.shields.io/badge/HackerRank-C++%205%E2%AD%90-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 
