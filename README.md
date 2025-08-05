@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seajal Gupta</h1>
 <h3 align="center">AI/ML Enthusiast | Software Developer | Full-Stack Web Developer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Seajal2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Seajal2004" />
-</p>
 
 ---
 
