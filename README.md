@@ -24,7 +24,6 @@
 - 🎖 Dean's List | Hackathon Runner-up | Authored Research Paper  
 
 ---
-
 ## 🛠 Technical Skills
 
 **Languages**  
@@ -53,6 +52,8 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Excel](https://img.shields.io/badge/-MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
 
 ---
 
@@ -98,6 +99,17 @@
 - 🧠 Data Structures – *University of California, San Diego (Coursera)*
 - 🤖 Complete AI, Machine Learning & Data Science Bootcamp – *Udemy*
 - 🗃️ Introduction to Modern Database Systems – *Infosys Springboard*
+
+---
+## 📚 Coursework Background
+  
+- **Object-Oriented Programming (OOPs)**  
+- **Data Structures & Algorithms (DSA)**  
+- **Machine Learning (ML)**  
+- **Deep Learning**  
+- **Natural Language Processing (NLP)**  
+
+These subjects shaped my problem-solving skills and guided the implementation of efficient, scalable features.  
 
 ---
 
