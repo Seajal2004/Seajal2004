@@ -121,6 +121,15 @@ These subjects shaped my problem-solving skills and guided the implementation of
 - 🧠 Reached mid-level interviews with **Google** and **Microsoft**
 
 ---
+## 📄 Research
+Alongside development, I have contributed to research in the field of AI/ML:
+
+**Research Paper**: [Dynamic Diet Recommendations with Real-Time Data for Personalized Nutrition](https://github.com/Seajal2004/Dynamic-Diet-Recommendations-with-Real-Time-Data-for-Personalized-Nutrition)  
+- Focused on leveraging **real-time data** for personalized nutrition guidance.  
+- Explores AI-driven solutions for health and wellness.  
+- Accepted and recognized in the academic community.  
+
+---
 
 ## 🎓 Campus Involvement
 
