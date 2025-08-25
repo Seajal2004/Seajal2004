@@ -68,6 +68,12 @@
 - Performed regression on historical data using advanced preprocessing  
 - Tuned features to reduce RMSLE and improve model accuracy  
 
+### 🛒 EazyKart – E-Commerce Platform  
+`React.js, Vite, JavaScript, CSS`  
+- Developed a modern e-commerce website with responsive UI  
+- Implemented cart management, product listing, and interactive user flow  
+🔗 [Live Demo](https://ezykart.netlify.app/)  
+
 ### 🧪 Farm Disease Detection  
 `Deep Learning, TensorFlow, Streamlit`  
 - Built a web app to detect crop and poultry diseases with 97% accuracy  
